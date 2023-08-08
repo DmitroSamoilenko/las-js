@@ -1,7 +1,5 @@
 node_modules
-src
 jest.config.js
-tsconfig.json
 tsconfig.browser.json
 .vscode
 .circleci
